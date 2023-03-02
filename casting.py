@@ -9,6 +9,9 @@ data_float = float(data_integer)
 data_str = str(data_integer)
 data_bool = bool(data_integer)
 
+
+# test lagii
+
 # data string
 print("data ", data_float,
       "bertipe", type(data_float))
