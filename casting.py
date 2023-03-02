@@ -1,6 +1,9 @@
 # belajar casting
 data_integer = 12
 
+# test
+print("test aja")
+
 # nasting
 data_float = float(data_integer)
 data_str = str(data_integer)
